@@ -4,7 +4,7 @@
 # Welcome!
 
 ## 2017-05-03 : update algorithms from now on.
-## 2017-05-12 : hi
+## 2017-05-12 : hihi
 
 1. Sort
 2. Select
