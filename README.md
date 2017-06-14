@@ -15,3 +15,9 @@
 ## 2017-05-22 updated
 
 Report about Algorithm for JBNU.
+
+```{r }
+install.packages("Rserve")
+library(Rserve)
+Rserve()
+```
