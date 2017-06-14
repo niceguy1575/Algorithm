@@ -32,3 +32,9 @@ Rserve()
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+| header1       | header2       | header3  |
+| ------------- |:-------------:| --------:|
+| observe[1,1]  | observe[1,2]  | observe[1,3] |
+| observe[2,1]  | observe[2,2]  | observe[2,3] |
+| observe[3,1]  | observe[3,2]  | observe[3,3] |
