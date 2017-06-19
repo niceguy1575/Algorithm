@@ -1,40 +1,59 @@
 # Algorithm
+
 2017 - 1 Semester
+### Welcome!
+	
+	This is the homework about Algorithm.
+	It contains some debug print. So don't use it as its own. 
 
-# Welcome!
+&nbsp;&nbsp; All of them are made of <b> C language. </b>
 
-## 2017-05-03 : update algorithms from now on.
+## Contents
 
-1. Sort
-2. Select
-3. treeSearch
-4. Hash & Set
-5. DP
-6. Graph
+### 1. Sort
+1. Selection Sort
+2. Bubble Sort
+3. Insertion Sort
+4. Merge Sort
+5. Quick Sort
+6. Heap Sort
+7. Counting Sort
+8. Radix Sort
 
-## 2017-05-22 updated
+### 2. Select
+1. Selection
+2. Linear Selection
 
-Report about Algorithm for JBNU.
+### 3. TreeSearch
+1. treeInsert
+2. treeDelete
+3. BinarySearchTree
 
-```{r }
-install.packages("Rserve")
-library(Rserve)
-Rserve()
-```
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+### 4. Hash & Set
+1. hash
+2. set
 
-| header1       | header2       | header3  |
-| ------------- |:-------------:| --------:|
-| observe[1,1]  | observe[1,2]  | observe[1,3] |
-| observe[2,1]  | observe[2,2]  | observe[2,3] |
-| observe[3,1]  | observe[3,2]  | observe[3,3] |
+### 5. DP
+1. MatrixPath
+2. PebbleSum
+3. Matrix Multiplication
+4. LCS
+
+### 6. Graph
+1. DFS
+2. BFS
+3. Prim
+4. Kruskal
+5. Dijkstra
+
+### 7. String
+1. NaiveMatching
+2. Basic Rabin-Karp
+3. Rabin-Karp
+4. KMP
+5. Boyer-Moore
+
+### 8. State Tree
+1. Graph Coloring
+2. A* (Astar)
